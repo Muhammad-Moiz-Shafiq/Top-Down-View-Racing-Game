@@ -1,0 +1,3 @@
+D:\C\Top Down Racing Game\Top-Down View Racing Game\x64\Debug\Top-Down View Racing Game.vcxproj.CopyComplete
+D:\C\Top Down Racing Game\Top-Down View Racing Game\x64\Debug\Top-Down View Racing Game.exe
+D:\C\Top Down Racing Game\Top-Down View Racing Game\x64\Debug\raylib.dll

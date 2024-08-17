@@ -1,0 +1,60 @@
+﻿  main.c
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(89,64): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(89,88): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(128,58): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(128,86): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(131,56): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(131,78): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(132,62): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(132,85): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(139,55): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(139,82): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(142,49): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(142,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(145,53): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(145,79): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(147,47): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(147,70): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(200,50): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(200,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(211,50): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(211,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(222,50): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(222,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(236,56): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(236,74): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(261,74): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(261,93): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(266,74): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(266,93): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(270,58): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(270,77): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(273,50): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(273,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(312,101): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(312,121): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(315,103): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(315,121): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(318,70): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(322,99): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(322,116): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(335,43): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(335,65): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(341,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(341,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(347,42): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(347,64): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(375,76): warning C4305: 'function': truncation from 'double' to 'float'
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(324,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(324,60): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(325,46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(325,71): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(328,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(328,60): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(329,46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(329,71): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(719,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\C\Top Down Racing Game\Top-Down View Racing Game\main.c(806,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Top-Down View Racing Game.vcxproj -> D:\C\Top Down Racing Game\Top-Down View Racing Game\x64\Debug\Top-Down View Racing Game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
